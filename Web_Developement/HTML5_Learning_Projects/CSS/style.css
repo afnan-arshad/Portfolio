@@ -27,3 +27,16 @@ H1{
     font-size: 80px;
     font-family: 'Arial Black', Gadget, sans-serif;
 }
+
+div{
+	border: 10px outset #C12229;
+	padding: 10px;
+}
+.grey{
+	border: 10px outset blue;
+	padding: 10px;
+}
+#images{
+	border: 10px outset grey;
+	padding: 10px;
+}
