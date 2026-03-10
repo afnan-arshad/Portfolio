@@ -1,14 +1,8 @@
 nav {
-	    background-color: black;
-        color: white;
-		padding: 10px;
+	    
+		font-size: 40px;
 	}
 
-nav a {
-		color: white;
-		text-decoration: none;
-		margin-right: 15px;
-	}
 
 p{
 	color: orange;
@@ -39,4 +33,20 @@ div{
 #images{
 	border: 10px outset grey;
 	padding: 10px;
+}
+
+ul{
+	
+	font-size: 40px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	display: inline;
+}
+
+a:link{
+	text-decoration: none;
 }
