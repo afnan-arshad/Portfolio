@@ -1,65 +1,54 @@
+# C++ Tasks and Projects
 
-# Web & Software Developer Portfolio 🚀
+This folder contains my **C++ tasks, practice work, and academic projects** completed during my studies and learning journey. It includes small programming exercises as well as larger semester-based projects developed to strengthen my understanding of core programming concepts.
 
-This repository is my structured portfolio built alongside my Web & Software Developer learning programme.
-I’m progressing from fundamentals to advanced, real-world projects, and documenting every step clearly.
+## About This Folder
 
-## 📌 Learning Path (Portfolio Roadmap)
+The purpose of this folder is to organize and showcase my work in **C++**, including:
 
-### Step 1 — Web Foundations
-- HTML Essentials
-- CSS Essentials
-- Practical Website Project
+- Basic C++ programming tasks
+- Practice exercises
+- Logic-building problems
+- Academic assignments
+- Semester projects
+- Game-based and console/graphics-based applications
 
-### Step 2 — Developer Fundamentals
-- Command Line
-- Git & GitHub
-- JavaScript
-- Python 3
+One of the main projects included in this folder is my **Checker Game in C++**, which I developed as a semester project during my Bachelor's degree.
 
-### Step 3 — Portfolio Website
-- Build & deploy my personal portfolio website
+## Included Work
 
-### Step 4 — Cloud Foundations
-- AWS Cloud Practitioner
-- Microsoft Azure Administrator (Associate)
+This folder may contain different types of C++ work, such as:
 
-## 🗂️ Projects Index (Will be updated continuously)
+- Object-oriented programming practice
+- Array and function-based tasks
+- File handling exercises
+- Logic and problem-solving programs
+- Graphics-based C++ projects
+- Game development projects
 
-### Beginner (Foundations)
-- [ ] HTML/CSS: Landing Page
-- [ ] HTML/CSS: Multi-page Website
-- [ ] Responsive Layout Project
+## Highlight Project
 
-### Front-End (Intermediate)
-- [ ] Tailwind CSS Website
-- [ ] Bootstrap / UI Framework Project
-- [ ] JavaScript Interactive Website
-- [ ] React App (SPA)
+### Checker Game
+A desktop-based **Checker / Draughts game** created in C++ as a semester project. This project demonstrates:
 
-### Back-End + Databases (Advanced)
-- [ ] SQL + Database Fundamentals
-- [ ] Full CRUD App (React + Database)
-- [ ] Full-stack App (Python + API + DB)
+- Board game logic implementation
+- Two-player gameplay
+- Move validation
+- Capture mechanics
+- King promotion
+- Use of graphics in C++
 
-### Real-World Case Studies
-- [ ] Ticket/Issue Tracker (real-life workflow)
-- [ ] Inventory/Attendance Dashboard (business-style system)
-- [ ] Log Analyzer / Reporting Tool (support-style use case)
+## Technologies Used
 
-## ✅ Quality Checklist for Every Project
-Each project includes:
-- Problem statement
-- Features list
-- Setup instructions
-- Screenshots/demo (when possible)
-- Improvements roadmap
+- **C++**
+- Standard programming concepts
+- Object-Oriented Programming (OOP)
+- In some projects: **graphics.h**, `conio.h`, and legacy Turbo C++ libraries
 
-## 🔗 Links
-- LinkedIn: www.linkedin.com/in/afnan-arshad
-- Portfolio Website: 
+## Purpose
 
+This repository/folder reflects my learning and practical work in C++. It shows my effort in building a strong programming foundation through hands-on tasks and projects.
 
-## 📜 License
-MIT (unless stated otherwise in a project)
+## Author
 
+**Afnan Arshad**
